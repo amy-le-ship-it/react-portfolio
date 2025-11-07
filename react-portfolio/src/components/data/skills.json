@@ -31,9 +31,9 @@
         "imageSrc" : "Python"
     },
     {
-        "name": "Django",
+        "name": "Java",
         "level": "Beginner",
-        "imageSrc" : "Django"
+        "imageSrc" : "Java"
     },
     {
         "name": "Git",
