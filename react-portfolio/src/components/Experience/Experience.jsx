@@ -17,6 +17,7 @@ import git from "../../assets/git.png";
 import sql from "../../assets/sql.png";
 import mongodb from "../../assets/mongodb.png";
 import dart from "../../assets/dart.png";
+import java from "../../assets/java.png"
 
 // Map company names to their corresponding images
 import techSolutions from "../../assets/tech_solutions.jpeg";
@@ -37,7 +38,8 @@ const imageMap = {
   Git: git,
   SQL: sql,
   MongoDB: mongodb,
-  Dart: dart
+  Dart: dart,
+  Java: java
 };
 
 const imageMapCompanies = {
