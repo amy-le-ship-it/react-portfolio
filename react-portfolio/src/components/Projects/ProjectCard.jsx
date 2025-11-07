@@ -1,6 +1,6 @@
 import React from "react";
 
-import personal from "../../assets/personal.jpg";
+import personal from "../../assets/personal.png";
 import fullstack from "../../assets/Fullstack.jpg";
 import dartMovie from "../../assets/dart-movie.png";
 

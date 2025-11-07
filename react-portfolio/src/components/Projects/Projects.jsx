@@ -5,7 +5,7 @@ import projects from "../data/projects.json";
 import style from "./Project.module.css"
 
 /* Map through the projects data and display each project's details */
-import personal from "../../assets/personal.jpg";
+import personal from "../../assets/personal.png";
 import fullstack from "../../assets/Fullstack.jpg";
 import dartMovie from "../../assets/dart-movie.png";
 import ProjectCard from './ProjectCard';

@@ -1,11 +1,11 @@
 [
     {
-        "title": "Project A",
+        "title": "Personal Portfolio",
         "imageSrc": "Personal",
-        "description": "Description for Project A",
-        "skills": ["React", "CSS"],
+        "description": "Complete Personal Portfolio using ReactJS, CSS",
+        "skills": ["ReactJS", "CSS"],
         "demoLink": "https://demo.projecta.com",
-        "codeLink": "https://github.com/user/projecta"
+        "codeLink": "https://github.com/amy-le-ship-it/react-portfolio"
     },
     {
         "title": "Project B",
