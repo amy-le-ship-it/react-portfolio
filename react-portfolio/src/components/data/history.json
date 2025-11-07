@@ -1,0 +1,26 @@
+[
+    {
+        "role" : "Software Engineer",
+        "company" : "Tech Solutions Inc.",
+        "duration" : "Jan 2020 - Present",
+        "description" : "Developed and maintained web applications using React and Node.js.",
+        "experiences": ["Worked on Google Maps", "Implemented user authentication", "Optimized application performance"],
+        "imageSrc" : "Tech Solutions"
+    },
+    {
+        "role" : "Junior Developer",
+        "company" : "Web Creators LLC",
+        "duration" : "Jun 2018 - Dec 2019",
+        "description" : "Assisted in the development of client websites and web applications.",
+        "experiences": ["Collaborated on e-commerce projects", "Maintained company website", "Participated in code reviews"],
+        "imageSrc" : "Web Creators"
+    },
+    {
+        "role" : "Intern",
+        "company" : "Startup Hub",
+        "duration" : "Jan 2018 - May 2018",
+        "description" : "Gained hands-on experience in web development and project management.",
+        "experiences": ["Contributed to startup projects", "Learned Agile methodologies", "Assisted in UI/UX design"],
+        "imageSrc" : "Startup Hub"
+    }
+]

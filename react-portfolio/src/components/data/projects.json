@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Project A",
+        "imageSrc": "Personal",
+        "description": "Description for Project A",
+        "skills": ["React", "CSS"],
+        "demoLink": "https://demo.projecta.com",
+        "codeLink": "https://github.com/user/projecta"
+    },
+    {
+        "title": "Project B",
+        "imageSrc": "Fullstack",
+        "description": "Description for Project B",
+        "skills": ["JavaScript", "HTML"],
+        "demoLink": "https://demo.projectb.com",
+        "codeLink": "https://github.com/user/projectb"
+    },
+    {
+        "title": "Project C",
+        "imageSrc": "Dart",
+        "description": "Description for Project C",
+        "skills": ["Node.js", "Express"],
+        "demoLink": "https://demo.projectc.com",
+        "codeLink": "https://github.com/user/projectc"
+    }
+]

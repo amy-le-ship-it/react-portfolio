@@ -1,0 +1,58 @@
+
+[
+    {
+        "name": "JavaScript",
+        "level": "Advanced",
+        "imageSrc" : "JavaScript"
+    },
+    {
+        "name": "React",
+        "level": "Intermediate",
+        "imageSrc" : "React"
+    },
+    {
+        "name": "CSS",
+        "level": "Advanced",
+        "imageSrc" : "CSS"
+    },
+    {
+        "name": "HTML",
+        "level": "Advanced",
+        "imageSrc" : "HTML"
+    },
+    {
+        "name": "Node.js",
+        "level": "Intermediate",
+        "imageSrc" : "NodeJS"
+    },
+    {
+        "name": "Python",
+        "level": "Intermediate",
+        "imageSrc" : "Python"
+    },
+    {
+        "name": "Django",
+        "level": "Beginner",
+        "imageSrc" : "Django"
+    },
+    {
+        "name": "Git",
+        "level": "Intermediate",
+        "imageSrc" : "Git"
+    },
+    {
+        "name": "SQL",
+        "level": "Intermediate",
+        "imageSrc" : "SQL"
+    },
+    {
+        "name": "MongoDB",
+        "level": "Beginner",
+        "imageSrc" : "MongoDB"
+    },
+    {
+        "name": "Dart",
+        "level": "Beginner",
+        "imageSrc" : "Dart"
+    }
+]

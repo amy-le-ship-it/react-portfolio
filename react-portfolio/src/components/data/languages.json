@@ -1,0 +1,32 @@
+[
+    {
+        "language": "English",
+        "proficiency": "Fluent",
+        "icon": "🇺🇸"
+    },
+    {
+        "language": "Vietnamese",
+        "proficiency": "Native",
+        "icon": "🇻🇳"
+    },
+    {
+        "language": "Korean",
+        "proficiency": "Intermediate",
+        "icon": "🇰🇷"
+    },
+    {
+        "language": "Japanese",
+        "proficiency": "Beginner",
+        "icon": "🇯🇵"
+    },
+    {
+        "language": "Thai",
+        "proficiency": "Beginner",
+        "icon": "🇹🇭"
+    },
+    {
+        "language": "Chinese",
+        "proficiency": "Beginner",
+        "icon": "🇨🇳"
+    }
+]

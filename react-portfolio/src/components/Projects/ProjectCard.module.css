@@ -1,0 +1,110 @@
+@import "../../vars.css";
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+    background-image: linear-gradient(90deg, rgba(1, 107, 97, 0.42) 0%, rgba(255, 255, 255, 0.18) 100%);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px 24px;
+    max-width: 345px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.image{
+    margin-bottom: 20px;
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.image img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+    transition: transform 0.4s ease;
+}
+
+.card:hover .image img{
+    transform: scale(1.05);
+}
+
+.title{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+
+.description {
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.9;
+    margin-bottom: 12px;
+    line-height: 1.5;
+}
+
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.skill{
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 100px;
+    background: var(--color-dark);
+    padding: 4px 14px;
+    white-space: nowrap; /* Prevents text from wrapping */
+}
+
+.links {
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 12px;
+}
+
+.link {
+    text-decoration: none;
+    color: var(--color-text);
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 100px;
+    background: var(--color-primary);
+    padding: 0px 0;
+    flex: 1;
+    text-align: center;
+}
+
+.link:hover {
+    background: var(--color-secondary);
+    transform: scale(1.05);
+}
+
+@media screen and (max-width: 768px) {
+    .card {
+        max-width: 100%;
+        padding: 16px 20px;
+    }
+
+    .title{
+        font-size: 20px;
+    }
+
+    .link{
+        font-size: 15px;
+        padding: 6px 0;
+    }
+}

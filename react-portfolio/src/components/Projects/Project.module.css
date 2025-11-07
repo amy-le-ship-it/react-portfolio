@@ -1,0 +1,62 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  background-color: rgba(112, 178, 178, 0.6);
+  padding: 60px 8%;
+  box-sizing: border-box;
+  text-align: center;
+  position: relative;
+}
+
+.title {
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.projectList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; /* Allow wrapping on smaller screens */
+  align-items: flex-start;
+  justify-content: center;
+  gap: 25px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* ===== RESPONSIVE BREAKPOINTS ===== */
+@media screen and (max-width: 900px) {
+  .container {
+    padding: 50px 6%;
+  }
+
+  .title {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+
+  .projectList {
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    padding: 40px 4%;
+  }
+
+  .title {
+    font-size: 26px;
+    letter-spacing: 1.2px;
+  }
+
+  .projectList {
+    flex-direction: column; /* ✅ stack cards vertically */
+    align-items: center;
+    gap: 18px;
+  }
+}
