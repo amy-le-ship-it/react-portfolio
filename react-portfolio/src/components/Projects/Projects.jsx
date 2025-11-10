@@ -6,13 +6,13 @@ import style from "./Project.module.css"
 
 /* Map through the projects data and display each project's details */
 import personal from "../../assets/personal.png";
-import fullstack from "../../assets/Fullstack.jpg";
+import ecommerce from "../../assets/e-commerce.png";
 import dartMovie from "../../assets/dart-movie.png";
 import ProjectCard from './ProjectCard';
 
 const ProjectData = {
     Personal: personal,
-    Fullstack: fullstack,
+    Ecommerce: ecommerce,
     Dart: dartMovie
 }
 

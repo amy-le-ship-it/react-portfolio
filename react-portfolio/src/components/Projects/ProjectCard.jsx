@@ -2,6 +2,7 @@ import React from "react";
 
 import personal from "../../assets/personal.png";
 import fullstack from "../../assets/Fullstack.jpg";
+import ecommerce from "../../assets/e-commerce.png";
 import dartMovie from "../../assets/dart-movie.png";
 
 import style from "./ProjectCard.module.css"
@@ -9,6 +10,7 @@ import style from "./ProjectCard.module.css"
 const ProjectData = {
     Personal: personal,
     Fullstack: fullstack,
+    Ecommerce: ecommerce,
     Dart: dartMovie
 }   
 

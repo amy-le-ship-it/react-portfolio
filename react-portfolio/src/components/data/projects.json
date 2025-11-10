@@ -8,10 +8,10 @@
         "codeLink": "https://github.com/amy-le-ship-it/react-portfolio"
     },
     {
-        "title": "Project B",
-        "imageSrc": "Fullstack",
-        "description": "Description for Project B",
-        "skills": ["JavaScript", "HTML"],
+        "title": "E-Commerce Website using MERN and CRUD application",
+        "imageSrc": "Ecommerce",
+        "description": "Full-Stack eCommerce CRUD application using MERN",
+        "skills": ["MongoDB", "Express", "React", "Node.js"],
         "demoLink": "https://demo.projectb.com",
         "codeLink": "https://github.com/user/projectb"
     },
