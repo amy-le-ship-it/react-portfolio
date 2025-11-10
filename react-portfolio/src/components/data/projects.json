@@ -13,7 +13,7 @@
         "description": "Full-Stack eCommerce CRUD application using MERN",
         "skills": ["MongoDB", "Express", "React", "Node.js"],
         "demoLink": "https://demo.projectb.com",
-        "codeLink": "https://github.com/user/projectb"
+        "codeLink": "https://github.com/amy-le-ship-it/e-commerce"
     },
     {
         "title": "Project C",
@@ -22,5 +22,13 @@
         "skills": ["Node.js", "Express"],
         "demoLink": "https://demo.projectc.com",
         "codeLink": "https://github.com/user/projectc"
+    },
+    {
+        "title": "Music Player",
+        "imageSrc": "Musicplayer",
+        "description": "Music Player Using Python and Django",
+        "skills": ["Python", "Django"],
+        "demoLink": "https://demo.projectc.com",
+        "codeLink": "https://github.com/amy-le-ship-it/python---music-player"
     }
 ]
